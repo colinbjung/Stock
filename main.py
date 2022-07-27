@@ -1,10 +1,10 @@
 #APIs and websites to be implemented when using get requests
-STOCK_API = "99HGUVV6BNO6X1MO"
-NEWS_API = "f793718a97544a3bb348f63cef3b0a8c"
-TWIL_SID = "AC1642761657534953e9e1ee3cce685a27"
-TWIL_AUTH = "6419c20531edbf2cfadb958bdab706ec"
-TWIL_NUM = "8065152243"
-VERIFIED_NUMBER = "3343225695"
+STOCK_API = ""
+NEWS_API = ""
+TWIL_SID = ""
+TWIL_AUTH = ""
+TWIL_NUM = ""
+VERIFIED_NUMBER = ""
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
